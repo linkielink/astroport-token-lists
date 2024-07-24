@@ -119,6 +119,15 @@
     "decimals": 6
   },
   {
+    "protocol": "CigZone Marlboro Gold",
+    "symbol": "MARBGOLD",
+    "token": "factory/neutron15dk63fekucecqcqlyuwy5mxpvcapmfhh0qva4s/umarbgold",
+    "icon": "/img/MARBGOLD.png",
+    "decimals": 6,
+    "originDenom": "umarbgold",
+    "originChainId": "neutron-1"
+  },
+  {
     "protocol": "CW20 Wrapped Lido",
     "symbol": "wstETH",
     "token": "neutron149tpx0nequ0cpctw06nk29hwfps0343wvwfh6tkhju3ra7hxvpeq8pvstf",
@@ -773,6 +782,13 @@
     "symbol": "ADB.cft20",
     "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/ADB",
     "icon": "/img/ADBcft.png",
+    "decimals": 6
+  },
+  {
+    "protocol": "Stimulus",
+    "symbol": "STIM.cft20",
+    "token": "factory/neutron1d59rkwmkt6f46aeyra6zfk6ghehlsqc2qevw96c6x4xfmyk4qxhsjh8ajn/STIM",
+    "icon": "/img/STIMcft.png",
     "decimals": 6
   },
   {
