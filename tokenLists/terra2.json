@@ -506,7 +506,6 @@
     "token": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
     "icon": "/img/wbtc.svg",
     "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
     "originDenom": "wbtc-satoshi",
     "originChainId": "axelar-dojo-1"
   },
@@ -533,7 +532,6 @@
     "token": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
     "icon": "/img/weth.png",
     "decimals": 18,
-    "coingeckoId": "weth",
     "originDenom": "weth-wei",
     "originChainId": "axelar-dojo-1"
   },
@@ -775,6 +773,15 @@
     "decimals": 6,
     "coingeckoId": "hava-coin",
     "originDenom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava",
+    "originChainId": "injective-1"
+  },
+  {
+    "protocol": "Cosmo Club",
+    "symbol": "COSMO",
+    "token": "ibc/7DD1E57984A26E7B6CBA0D93032DC24AD5274536184DFA999D166EBF6E4AA469",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/cosmo.png",
+    "decimals": 6,
+    "originDenom": "factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO",
     "originChainId": "injective-1"
   }
 ]
